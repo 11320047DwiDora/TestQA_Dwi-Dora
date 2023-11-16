@@ -1,1 +1,21 @@
-Contoh Menjalankan Test Script
+- /MyAutomationProject
+  - /Include
+  - /Keywords
+  - /Libs
+  - /Scripts
+    - TestScript01
+    - TestScript02
+    - ...
+  - /Test Cases
+    - TestCase01
+    - TestCase02
+    - ...
+  - Object Repository
+    - ObjectRepository01
+    - ObjectRepository02
+    - ...
+  - Test Suites
+    - TestSuite01
+    - TestSuite02
+    - ...
+  - ...
